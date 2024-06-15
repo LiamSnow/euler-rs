@@ -1,7 +1,8 @@
 ## [Project Euler](https://projecteuler.net/) in Rust!
 
-This is just me learning Rust please do not use this
-as a reference!!!
+My goal was to do this while only using resources
+for Rust but not to solve the specific problems.
+Please ignore some of my questionable algorithms 🤧
 
 ### Running
 
